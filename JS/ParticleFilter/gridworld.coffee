@@ -1,3 +1,5 @@
+//DP visualization
+
 ctx = {}
 canvases = {}
 width = 700
