@@ -1,3 +1,5 @@
+//DP visualization
+
 (function() {
   var GridWorld, SearchAlgos, canvases, ctx, distance, dp, equalPoints, gridColors, height, initWalls, make2DArray, megaValue, mod, p, random, width, world;
 
