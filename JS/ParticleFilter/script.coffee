@@ -1,3 +1,5 @@
+//Particle filter implementation with simulation on a canvas in the browser
+
 context = canvasHtml = simulation = null #Semi-Globals placeholders
 
 root = exports ? this #Global scope variable
